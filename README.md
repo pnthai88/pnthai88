@@ -7,10 +7,11 @@ I'm a passionate Python developer with a love for creating efficient and scalabl
 
 ## 🛠️ Technologies and Tools
 
-- Programming Languages: Python, JavaScript
+- Programming Languages: Python, JavaScript, C, C++
 - Web Frameworks: Django, Flask
 - Front-end: HTML, CSS, JavaScript
-- Databases: PostgreSQL, MySQL, SQLite
+- Databases: PostgreSQL, MySQL, SQLite, SQL Server, Redis as main Database
+- NoSQL: Redis
 - Version Control: Git, GitHub
 - Other Tools: Docker, REST APIs
 

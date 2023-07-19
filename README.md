@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @pnthai88
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm @pnthai88 👋
+### Python Developer | Open Source Enthusiast | Tech Enthusiast
 
-<!---
-pnthai88/pnthai88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+I'm a passionate Python developer with a love for creating efficient and scalable applications. My journey into coding began with a curiosity about how technology works, and since then, I've been exploring various aspects of software development and open-source projects.
+
+## 🛠️ Technologies and Tools
+
+- Programming Languages: Python, JavaScript
+- Web Frameworks: Django, Flask
+- Front-end: HTML, CSS, JavaScript
+- Databases: PostgreSQL, MySQL, SQLite
+- Version Control: Git, GitHub
+- Other Tools: Docker, REST APIs
+
+## 🌱 I'm Currently Learning
+
+- Advanced Python topics like async programming and metaprogramming.
+- Exploring cloud technologies like AWS and Google Cloud Platform.
+- Improving my algorithm and data structures skills.
+
+## 👨‍💻 My Projects
+
+- [Project 1](#): RFID MIDDLEWARE - Fit any business via excel source
+- [Project 2](#): MACHINE LEARNING - Customer's review feature extraction
+- [Project 3](#): MASS ANDROID AUTOMATION - Virtual user activity like real-human
+## 📫 How to Reach Me
+
+- Email: pnthai88@gmail.com
+
+## 🤝 Let's Connect
+
+I'm always open to interesting discussions, collaborations, and learning from others. Feel free to connect with me on LinkedIn or drop me an email. Let's create something awesome together!
